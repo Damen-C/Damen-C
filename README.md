@@ -7,7 +7,7 @@
 Skills: Python, PyTorch, Scikit-Learn, TensorFlow
 
 
-- What I am learning now: I’m currently learning Machine Learning with Python and Scikit-Learn 
+- What I am learning now: Machine Learning with Python and Scikit-Learn 
 - Pronouns: he,him 
 - Fun fact: I speak three languages  
 
