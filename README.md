@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I am happy that you are here🥳
+#### -> I am passionate about Natural Language Processing and Machine Learning in general 😎  
+#### -> You can find my work on Medium: https://medium.com/@cd_24
+[![Damen's GitHub stats](https://github-readme-stats.vercel.app/api?username=beeman-93)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**beeman-93/beeman-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: Python, PyTorch, Scikit-Learn, TensorFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- What I am learning now: I’m currently learning Machine Learning with Python and Scikit-Learn 
+- Pronouns: he,him 
+- Fun fact: I speak three languages  
+
+
+
+
