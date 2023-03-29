@@ -4,7 +4,7 @@
 [![Damen's GitHub stats](https://github-readme-stats.vercel.app/api?username=beeman-93)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Skills: Python, PyTorch, Scikit-Learn, TensorFlow
+#### -> Skills: Python, PyTorch, Scikit-Learn, TensorFlow, Pandas
 
 
 - What I am learning now: Machine Learning with Python and Scikit-Learn 
