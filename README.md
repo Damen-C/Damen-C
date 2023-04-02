@@ -9,7 +9,7 @@
 
 - What I am learning now: Machine Learning with Python and Scikit-Learn 
 - Pronouns: he,him 
-- Fun fact: I speak three languages  
+- Fun fact: I speak three languages - 🇨🇳; 🇯🇵; 🇬🇧    
 
 
 
