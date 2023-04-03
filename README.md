@@ -2,7 +2,7 @@
 
 ### Hi there, I am happy that you are here🥳
 #### -> I am passionate about Natural Language Processing and Machine Learning in general 😎  
-#### -> I write tutorials about Natural Language Processing on Medium: https://medium.com/@cd_24 Please drop by 🤝
+#### -> I write tutorials about Natural Language Processing on Medium:[click me](https://medium.com/@cd_24). Please drop by 🤝
 
 
 
