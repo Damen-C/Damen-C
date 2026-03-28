@@ -1,8 +1,9 @@
-# Hi, I'm Danmeng Cai
-AI Engineer @ Lenovo | LLM Product Builder | Multilingual (JP / EN / CN)
+# AI Engineer @ Lenovo
+
+## LLM Product Builder | Multilingual (JP / EN / CN)
 
 I build real-world AI systems — from research to production  
-Based in Japan | Working on Moto AI & Qira AI  
+Based in Japan
 
 ---
 ## Currently Working On
