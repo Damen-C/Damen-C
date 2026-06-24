@@ -1,4 +1,4 @@
-# AI Engineer @ Lenovo
+# AI Engineer @ FCNT (Lenovo Group)
 
 ## LLM Product Builder | Multilingual (JP / EN / CN)
 
